@@ -1,0 +1,16 @@
+﻿  Building 'IoComm' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  file.cpp
+  hide.cpp
+  inject.cpp
+  ioctl.cpp
+  main.cpp
+  mm.cpp
+  pml4.cpp
+  rw.cpp
+  正在生成代码...
+  IoComm.vcxproj -> G:\驱动开发代码\IoComm\x64\Debug\IoComm.sys
+  Done Adding Additional Store
+  Successfully signed: G:\\IoComm\x64\Debug\IoComm.sys
+  
+  Inf2Cat task was skipped as there were no inf files to process
+  
